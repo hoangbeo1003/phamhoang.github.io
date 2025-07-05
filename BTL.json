@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "id": "L01",
+      "name": "Lập trình Python",
+      "schedule": ["Thứ 2 - 9h", "Thứ 5 - 14h"],
+      "teacher": {
+        "id": "GV01",
+        "name": "Nguyễn Văn A",
+        "email": "nguyenvana@university.edu"
+      },
+      "students": ["SV01", "SV02"]
+    },
+    {
+      "id": "L02",
+      "name": "Cơ sở dữ liệu",
+      "schedule": ["Thứ 3 - 13h", "Thứ 6 - 8h"],
+      "teacher": {
+        "id": "GV02",
+        "name": "Trần Thị B",
+        "email": "tranthib@university.edu"
+      },
+      "students": ["SV03"]
+    }
+  ],
+  "teachers": [
+    {
+      "id": "GV001",
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@university.edu"
+    },
+    {
+      "id": "GV00202",
+      "name": "Trần Thị B",
+      "email": "tranthib@university.edu"
+    }
+  ],
+  "students": [
+    {
+      "id": "SV01",
+      "name": "Lê Văn Học"
+    },
+    {
+      "id": "SV02",
+      "name": "Phạm Minh Tâm"
+    },
+    {
+      "id": "SV03",
+      "name": "Đỗ Hồng Quân"
+    }
+  ]
+}
